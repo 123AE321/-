@@ -2,7 +2,7 @@
 
 ## 說明：
 
-![image](https://imgur.com/WF2HGRt)
+![image](https://i.imgur.com/WF2HGRt.jpeg)
 
 以Javascript撰寫的簡易俄羅斯方塊
 
