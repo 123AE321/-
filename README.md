@@ -16,4 +16,4 @@
 
 ## 參考:
 [網址](https://www.youtube.com/watch?v=rAUn1Lom6dw&list=LL&index=1&t=4955s)
-複製95% , 原創5%
+複製95% , 原創5%(樣式，背景，方塊隨機顏色)
